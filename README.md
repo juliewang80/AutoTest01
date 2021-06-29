@@ -8,3 +8,6 @@
 ==>allure报表生成练习
 ##1。4 test_pytestfile01.py
 ==>参数化练习
+===============================================
+##flask python测试框架
+pip install flask
